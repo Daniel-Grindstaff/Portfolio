@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6YC4OUlWYOw" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Daniel Grindstaff Portfolio</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Daniel_Grindstaff_Portfolio_ORG">
+    <organization identifier="Daniel_Grindstaff_Portfolio_ORG">
+      <title>Daniel Grindstaff Portfolio</title>
+      <item identifier="Objectives_SCO" isvisible="true" identifierref="__6YC4OUlWYOw_RES">
+        <title>Daniel Grindstaff Portfolio</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6YC4OUlWYOw_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6F0tuozYehQ_P_23_0_423_829.jpg" />
+      <file href="story_content/6mIA3Qom5I4_44100_48_0.mp3" />
+      <file href="story_content/5nCONPEXaie_captions.js" />
+      <file href="story_content/5kWZKWEyyws_44100_48_0.mp3" />
+      <file href="story_content/6P50DPXROnT_captions.js" />
+      <file href="story_content/6m1DVm30dvg_44100_48_0.mp3" />
+      <file href="story_content/6ShOUpfaqW3_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/5wMotldcIpM.png" />
+      <file href="story_content/6YRe816iPeu.png" />
+      <file href="story_content/6pWWZC6QCxj.png" />
+      <file href="story_content/6oszEPkLonu.png" />
+      <file href="story_content/6Vsh7uAF4X7.png" />
+      <file href="story_content/6lxc5s2JdRC.png" />
+      <file href="story_content/6VsZAJXQGVI.png" />
+      <file href="story_content/6RgUHF7dIij.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/1A3 Newsletter Vol 1 No 1.pdf" />
+      <file href="story_content/external_files/1A3  Newsletter Vol 1 No 2.pdf" />
+      <file href="story_content/external_files/1A3 Newsletter Vol 1 No 3.pdf" />
+      <file href="story_content/external_files/1A3 Newsletter Vol 1 No 4.pdf" />
+      <file href="story_content/external_files/After Action Report.pdf" />
+      <file href="story_content/external_files/Instructor Evaluation.pdf" />
+      <file href="story_content/external_files/Syllabus.pdf" />
+      <file href="story_content/external_files/Objectives.pdf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5wQQBoVYdwz.js" />
+      <file href="html5/data/js/5YjxrxkU0sW.js" />
+      <file href="html5/data/js/6E81f4hU0Xr.js" />
+      <file href="html5/data/js/6IfGLFl4Suy.js" />
+      <file href="html5/data/js/6INvT2KOed1.js" />
+      <file href="html5/data/js/6lHHt5BAzGm.js" />
+      <file href="html5/data/js/6lILIhQZfeD.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
